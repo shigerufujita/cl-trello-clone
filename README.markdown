@@ -25,6 +25,8 @@ cd ~/quicklisp/local-projects
 git clone https://github.com/rajasegar/cl-trello-clone
 ```
 
+Go to `http://192.168.0.1:3000` in your browser to see the demo in action.
+
 ## Author
 
 * Rajasegar Chandran
