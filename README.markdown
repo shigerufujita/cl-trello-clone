@@ -13,6 +13,12 @@ A small Trello clone built in Common Lisp
 
 Go to `http://localhost:3000` in your browser to see the demo in action.
 
+### with IP Address
+```lisp
+(ql:quickload :cl-trello-clone)
+(cl-trello-clone:start :address "192.168.0.1" :port 3000)
+```
+
 ## Installation
 ```
 cd ~/quicklisp/local-projects
