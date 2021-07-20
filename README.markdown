@@ -19,13 +19,13 @@ Go to `http://localhost:3000` in your browser to see the demo in action.
 (cl-trello-clone:start :address "192.168.0.1" :port 3000)
 ```
 
+Go to `http://192.168.0.1:3000` in your browser to see the demo in action.
+
 ## Installation
 ```
 cd ~/quicklisp/local-projects
 git clone https://github.com/rajasegar/cl-trello-clone
 ```
-
-Go to `http://192.168.0.1:3000` in your browser to see the demo in action.
 
 ## Author
 
